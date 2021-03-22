@@ -1,0 +1,13 @@
+[
+    {
+        "caption": "Extract to i18n JS",
+        "mnemonic": "y",
+        "command": "i18n",
+    },
+    {
+        "caption": "Extract to i18n React",
+        "mnemonic": "y",
+        "command": "i18n_react",
+    },
+
+]
